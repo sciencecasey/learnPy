@@ -1,3 +1,4 @@
+#Shane Neeley video: https://youtu.be/oYTs9HwFGbY 
 import numpy as np
 
 #create 1 dimensional arrays (vectors)
