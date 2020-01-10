@@ -1,3 +1,4 @@
+#coursera Python for Everyone
 hrs = input("Enter Hours:")
 rate=input("Enter Hourly wage:")
 try:
