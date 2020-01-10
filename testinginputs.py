@@ -1,3 +1,4 @@
+#coursera Python for Everyone
 #program testing arithmetic functions for pay with inputs
 
 hrs=input("Enter hours worked per day: ")
